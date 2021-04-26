@@ -1,0 +1,4 @@
+tensorboard
+torchvision
+argparse
+pyfiglet
