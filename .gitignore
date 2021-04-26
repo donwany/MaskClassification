@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+.DS_Store
+.gitignore
+.idea/.gitignore
+.idea/PatternRecognition.iml
+.idea/aws.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.ipynb_checkpoints/
+Final Project.ipynb
+Mask_NoMask.ipynb
+Mask_NoMask/
+app.py
+runs/
+.idea/vcs.xml
